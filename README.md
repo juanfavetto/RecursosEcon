@@ -68,6 +68,7 @@ Del equipo de [JILAEE](https://www.jilaee.org/) 🤙
 | [The Nature of the Firm](https://www.jstor.org/stable/2626876) | Coase | 1937 | Micro Teórica / OI | ¿Por qué existen las empresas grandes si la división del trabajo es tan eficiente? |
 | [The Problem of Social Cost](https://www.jstor.org/stable/724810) | Coase | 1960 | Micro Teórica / Externalidades | A veces, la asignación de derechos de propiedad no importa para la eficiencia, pero a veces sí. |
 | [Cooperation and Punishment in Public Goods Experiments](https://web.mit.edu/14.160/www/Coop_PunAER.pdf) | Fehr & Gächter | 2000 | Behavioral | Resultados robustos que contradicen nuestros modelos tradicionales. |
+| [The Use of Knowledge in Society](https://www.jstor.org/stable/1809376) | Hayek | 1945 | Micro Teórica / Mecanismos | El sistema de precios coordina el conocimiento disperso en la sociedad |
 
 > **No tenés acceso?** Pedinos a nosotros o a la biblioteca.
 
