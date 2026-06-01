@@ -10,7 +10,6 @@ Del equipo de [JILAEE](https://www.jilaee.org/) 🤙
 - [📖 Libros](#-libros)
 - [📄 Papers](#-papers)
 - [📺 Canales de YouTube](#-canales-de-youtube)
-- [💼 Empleo y becas](#-empleo-y-becas)
 - [🛠️ Herramientas](#️-herramientas)
 
 ---
@@ -46,7 +45,7 @@ Del equipo de [JILAEE](https://www.jilaee.org/) 🤙
 
 ## 📄 Papers
 
-### 🔥 En la frontera
+### En la frontera
 
 | Título | Autores | Año | Área | Descripción |
 |--------|---------|-----|------|----------------|
@@ -58,7 +57,7 @@ Del equipo de [JILAEE](https://www.jilaee.org/) 🤙
 | [School Vouchers: A Survey of The Economics Literature](https://www.aeaweb.org/articles?id=10.1257/jel.20150679) | Epple, Romano & Urquiola | 2017 | Educación | Todo lo que sabemos (y no sabemos) sobre los vouchers educativos. |
 | [Shallow Meritocracy](https://www.nber.org/papers/w33730) | Peter Andre | 2025 | Behavioral | Cómo las creencias sobre el mérito son superficiales y maleables. Representa cómo se trabaja hoy en behavioral. |
 
-### 🏛️ Algunos clásicos
+### Algunos clásicos
 
 | Título | Autores | Año | Área | Descripción |
 |--------|---------|-----|------|-------------|
@@ -82,12 +81,6 @@ Del equipo de [JILAEE](https://www.jilaee.org/) 🤙
 | [3Blue1Brown](https://www.youtube.com/@3blue1brown) | El mejor canal de matemáticas de la web. Imprescindible. | 🎓 Académico | EN |
 | [Market Power](https://www.youtube.com/@MarketPowerYT) | Súper orientado a estudiantes de economía: carrera, libros, etc. | 🌍 Divulgación | EN |
 | [ANCE Económicas](https://www.youtube.com/@anceeconomicas450) | Juan Carlos de Pablo entrevista a otros economistas | 🌍 Divulgación | ES |
-
----
-
-## 💼 Empleo y becas
-
-_Próximamente._
 
 ---
 
