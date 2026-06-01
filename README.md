@@ -64,10 +64,10 @@ Del equipo de [JILAEE](https://www.jilaee.org/) 🤙
 | [The Market for Lemons](https://www.jstor.org/stable/1879431) | Akerlof | 1970 | Micro Teórica / Juegos | Modelo de información asimétrica, selección adversa con conclusiones poco obvias. |
 | [The Methodology of Positive Economics](https://press.uchicago.edu/ucp/books/book/chicago/E/bo25773835.html) | Friedman | 1953 | Metodología | ¿Cómo juzgamos si una teoría es buena o mala? El trabjo más importante de Friedman. |
 | [Moral Hazard and Observability](https://www.jstor.org/stable/3003320) | Holmström | 1979 | Micro Teórica / Contratos | El paper fundacional del modelo principal-agente con información oculta. |
-| [The Nature of the Firm](https://www.jstor.org/stable/2626876) | Coase | 1937 | Micro Teórica / OI | ¿Por qué existen las empresas grandes si la división del trabajo es tan eficiente? |
+| [The Nature of the Firm](https://www.jstor.org/stable/2626876) | Coase | 1937 | Micro Teórica / OI | ¿Por qué existen las empresas grandes si el libre mercado es tan eficiente en coordinar la producción? |
 | [The Problem of Social Cost](https://www.jstor.org/stable/724810) | Coase | 1960 | Micro Teórica / Externalidades | A veces, la asignación de derechos de propiedad no importa para la eficiencia, pero a veces sí. |
 | [Cooperation and Punishment in Public Goods Experiments](https://web.mit.edu/14.160/www/Coop_PunAER.pdf) | Fehr & Gächter | 2000 | Behavioral | Resultados robustos que contradicen nuestros modelos tradicionales. |
-| [The Use of Knowledge in Society](https://www.jstor.org/stable/1809376) | Hayek | 1945 | Micro Teórica / Mecanismos | El sistema de precios coordina el conocimiento disperso en la sociedad |
+| [The Use of Knowledge in Society](https://www.jstor.org/stable/1809376) | Hayek | 1945 | Teoría de Precios | La mejor explicación de cómo funciona el sistema de precios. |
 
 > **No tenés acceso?** Pedinos a nosotros o a la biblioteca.
 
